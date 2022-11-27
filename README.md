@@ -20,3 +20,28 @@ de todas formas, lo hice sencillo y hasta se puede modificar por ti mismo en el 
 
 Muchas Gracias, Jeff McWill
 
+-------------------------------------------------------
+
+#NUEVA ACTUALIZACION DEL CODIGO 27/11/22
+
+Hice una pequeña modificacion para que en caso de que el monitor sea diferente al codigo default que tiene el programa, ahora uno sin necesidad de 
+tocar el codigo, lo npueda hacer manualmente. muestro.
+
+.Elegimos la nueva opcion 6 (CAMBIAR TIPO DE MONITOR):
+
+![cam1](https://user-images.githubusercontent.com/111131531/204149117-7f868086-5c38-4ff6-9bc5-1ef4c44f2192.png)
+
+.Una vez elegido te llevara a un menu que dice "CAMBIO" de ahi te explica lo que debes hacer:
+
+.![cam2](https://user-images.githubusercontent.com/111131531/204149189-a3301b71-42db-4568-a588-0aa71e7e4bbc.png)
+
+basicamente esto sirve para que el usuario en caso de que no funcione el programa por que la opcion default en que esta escrito no es compatible con su
+monitor, agregue este script que hace que el usuario lo modifique de forma manual, sin necesidad de modificar el codigo.
+
+![cam3](https://user-images.githubusercontent.com/111131531/204149491-87573bf6-3bc4-4927-979e-98ba3ab4b61c.png)
+
+Termina de agregar el tipo de monitor, te enviara a un menu "similar" al de siempre y el programa proceguira con normalidad.
+
+------------------------------------
+Muchas gracias, Jeff McWill 27/11/22
+
